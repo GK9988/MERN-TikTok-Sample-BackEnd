@@ -1,0 +1,17 @@
+{
+  "name": "tik-tok-clone-backend",
+  "version": "1.0.0",
+  "description": "Backend for React Tik-Tok-Clone",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Garv Khurana",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  }
+}
